@@ -1,0 +1,1 @@
+bash bedfile-statsjob-qsub.sh #bedfilename wgEncodeHaibTfbsGm12878BatfPcr1xPkRep1.broadPeak
